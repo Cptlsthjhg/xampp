@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<snippets>
+  <leaf type="insert" title="Test" tooltip="">
+    <before>echo 'this is BEFORE the cursor</before>
+    <after>this is AFTER the cursor';</after>
+  </leaf>
+</snippets>

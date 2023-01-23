@@ -1,0 +1,1309 @@
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET / HTTP/1.1" 302 -
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/ HTTP/1.1" 200 5187
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/stylesheets/normalize.css HTTP/1.1" 200 6876
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/stylesheets/all.css HTTP/1.1" 200 406998
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/javascripts/modernizr.js HTTP/1.1" 200 51365
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/javascripts/all.js HTTP/1.1" 200 188385
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/images/fastly-logo.png HTTP/1.1" 200 1770
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/images/xampp-logo.svg HTTP/1.1" 200 5427
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/images/social-icons.png HTTP/1.1" 200 3361
+::1 - - [17/Jan/2023:16:13:18 -0500] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508
+::1 - - [17/Jan/2023:16:16:03 -0500] "GET /dashboard/ HTTP/1.1" 200 5187
+::1 - - [17/Jan/2023:16:16:03 -0500] "GET /dashboard/stylesheets/normalize.css HTTP/1.1" 200 6876
+::1 - - [17/Jan/2023:16:16:03 -0500] "GET /dashboard/stylesheets/all.css HTTP/1.1" 200 406998
+::1 - - [17/Jan/2023:16:16:03 -0500] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508
+::1 - - [17/Jan/2023:16:16:04 -0500] "GET /dashboard/ HTTP/1.1" 200 5187
+::1 - - [17/Jan/2023:16:16:04 -0500] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508
+::1 - - [17/Jan/2023:16:16:05 -0500] "GET /dashboard/ HTTP/1.1" 200 5187
+::1 - - [17/Jan/2023:16:16:05 -0500] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/ HTTP/1.1" 200 5187
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/stylesheets/normalize.css HTTP/1.1" 200 6876
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/stylesheets/all.css HTTP/1.1" 200 406998
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/javascripts/modernizr.js HTTP/1.1" 200 51365
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/javascripts/all.js HTTP/1.1" 200 188385
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/images/xampp-logo.svg HTTP/1.1" 200 5427
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/images/fastly-logo.png HTTP/1.1" 200 1770
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/images/social-icons.png HTTP/1.1" 200 3361
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/ HTTP/1.1" 200 5187
+::1 - - [17/Jan/2023:16:16:17 -0500] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508
+::1 - - [17/Jan/2023:16:16:18 -0500] "GET /dashboard/ HTTP/1.1" 200 5187
+::1 - - [17/Jan/2023:16:16:18 -0500] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508
+::1 - - [17/Jan/2023:16:41:49 -0500] "GET / HTTP/1.1" 200 230
+::1 - - [17/Jan/2023:16:41:49 -0500] "GET /favicon.ico HTTP/1.1" 200 30894
+::1 - - [17/Jan/2023:16:44:51 -0500] "GET /test1 HTTP/1.1" 200 58
+::1 - - [17/Jan/2023:16:48:39 -0500] "GET /phpmyadmin HTTP/1.1" 301 338
+::1 - - [17/Jan/2023:16:48:39 -0500] "GET /phpmyadmin/ HTTP/1.1" 200 16922
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/sprintf.js?v=5.2.0 HTTP/1.1" 200 7409
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/menu_resizer.js?v=5.2.0 HTTP/1.1" 200 5721
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/tracekit.js?v=5.2.0 HTTP/1.1" 200 47128
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/css/theme.css?v=5.2.0 HTTP/1.1" 200 340791
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-migrate.js?v=5.2.0 HTTP/1.1" 200 30789
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/keyhandler.js?v=5.2.0 HTTP/1.1" 200 2988
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/name-conflict-fixes.js?v=5.2.0 HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/ajax.js?v=5.2.0 HTTP/1.1" 200 29575
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/js.cookie.js?v=5.2.0 HTTP/1.1" 200 3883
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js?v=5.2.0 HTTP/1.1" 200 78129
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.validate.js?v=5.2.0 HTTP/1.1" 200 50963
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.min.js?v=5.2.0 HTTP/1.1" 200 89501
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js?v=5.2.0 HTTP/1.1" 200 1608
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/cross_framing_protection.js?v=5.2.0 HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js?v=5.2.0 HTTP/1.1" 200 78475
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/config.js?v=5.2.0 HTTP/1.1" 200 24062
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/doclinks.js?v=5.2.0 HTTP/1.1" 200 18277
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/navigation.js?v=5.2.0 HTTP/1.1" 200 52604
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/common.js?v=5.2.0 HTTP/1.1" 200 4548
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/indexes.js?v=5.2.0 HTTP/1.1" 200 26428
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/page_settings.js?v=5.2.0 HTTP/1.1" 200 1544
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/functions.js?v=5.2.0 HTTP/1.1" 200 145101
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/home.js?v=5.2.0 HTTP/1.1" 200 5280
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js?v=5.2.0 HTTP/1.1" 200 2773
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/mode/sql/sql.js?v=5.2.0 HTTP/1.1" 200 51017
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui.min.js?v=5.2.0 HTTP/1.1" 200 255082
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js?v=5.2.0 HTTP/1.1" 200 19979
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js?v=5.2.0 HTTP/1.1" 200 9604
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js?v=5.2.0 HTTP/1.1" 200 944
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.js?v=5.2.0 HTTP/1.1" 200 9985
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/error_report.js?v=5.2.0 HTTP/1.1" 200 9290
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/drag_drop_import.js?v=5.2.0 HTTP/1.1" 200 12346
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/shortcuts_handler.js?v=5.2.0 HTTP/1.1" 200 3311
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/dist/console.js?v=5.2.0 HTTP/1.1" 200 49251
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.js?v=5.2.0 HTTP/1.1" 200 400215
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/logo_left.png HTTP/1.1" 200 2713
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0&lang=en HTTP/1.1" 200 7861
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_docs.png HTTP/1.1" 200 705
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_loggoff.png HTTP/1.1" 200 626
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_sqlhelp.png HTTP/1.1" 200 512
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_reload.png HTTP/1.1" 200 527
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_cog.png HTTP/1.1" 200 442
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_home.png HTTP/1.1" 200 734
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_link.png HTTP/1.1" 200 280
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_db.png HTTP/1.1" 200 328
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_newdb.png HTTP/1.1" 200 585
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_plus.png HTTP/1.1" 200 143
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_host.png HTTP/1.1" 200 591
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_sql.png HTTP/1.1" 200 680
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_status.png HTTP/1.1" 200 600
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_rights.png HTTP/1.1" 200 461
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_export.png HTTP/1.1" 200 514
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_import.png HTTP/1.1" 200 556
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_replication.png HTTP/1.1" 200 399
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_vars.png HTTP/1.1" 200 523
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_asci.png HTTP/1.1" 200 148
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_engine.png HTTP/1.1" 200 398
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_tblops.png HTTP/1.1" 200 537
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_plugin.png HTTP/1.1" 200 512
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_help.png HTTP/1.1" 200 705
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/window-new.png HTTP/1.1" 200 468
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_lang.png HTTP/1.1" 200 659
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/console.png HTTP/1.1" 200 292
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_top.png HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_theme.png HTTP/1.1" 200 772
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:16:48:43 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1474
+::1 - - [17/Jan/2023:16:48:43 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2206
+::1 - - [17/Jan/2023:16:48:43 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1566
+::1 - - [17/Jan/2023:16:48:43 -0500] "POST /phpmyadmin/index.php?route=/database/structure/favorite-table&ajax_request=1&favorite_table=1&sync_favorite_tables=1&lang=en HTTP/1.1" 200 155
+::1 - - [17/Jan/2023:16:48:43 -0500] "POST /phpmyadmin/index.php?route=/version-check HTTP/1.1" 200 64
+::1 - - [17/Jan/2023:16:48:43 -0500] "GET /phpmyadmin/ HTTP/1.1" 200 16841
+::1 - - [17/Jan/2023:16:48:44 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7861
+::1 - - [17/Jan/2023:16:48:44 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1465
+::1 - - [17/Jan/2023:16:48:44 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:16:48:44 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1566
+::1 - - [17/Jan/2023:16:48:44 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2206
+::1 - - [17/Jan/2023:16:48:44 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1474
+::1 - - [17/Jan/2023:16:48:44 -0500] "POST /phpmyadmin/index.php?route=/database/structure/favorite-table&ajax_request=1&favorite_table=1&sync_favorite_tables=1 HTTP/1.1" 200 155
+::1 - - [17/Jan/2023:16:48:44 -0500] "POST /phpmyadmin/index.php?route=/version-check HTTP/1.1" 200 64
+::1 - - [17/Jan/2023:16:48:44 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1465
+::1 - - [17/Jan/2023:16:48:51 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_unlink.png HTTP/1.1" 200 589
+::1 - - [17/Jan/2023:16:48:52 -0500] "GET /phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:16:48:52 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2317
+::1 - - [17/Jan/2023:16:48:53 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_browse.png HTTP/1.1" 200 486
+::1 - - [17/Jan/2023:16:48:53 -0500] "GET /phpmyadmin/themes/pmahomme/img/hide.png HTTP/1.1" 200 284
+::1 - - [17/Jan/2023:16:48:53 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_views.png HTTP/1.1" 200 603
+::1 - - [17/Jan/2023:16:48:53 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_minus.png HTTP/1.1" 200 123
+::1 - - [17/Jan/2023:16:48:55 -0500] "GET /phpmyadmin/index.php?route=/server/sql&ajax_request=true&ajax_page_request=true&_nocache=16739921356345705&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5062
+::1 - - [17/Jan/2023:16:48:55 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:16:48:55 -0500] "GET /phpmyadmin/js/dist/sql.js?v=5.2.0 HTTP/1.1" 200 35111
+::1 - - [17/Jan/2023:16:48:55 -0500] "GET /phpmyadmin/js/dist/makegrid.js?v=5.2.0 HTTP/1.1" 200 79631
+::1 - - [17/Jan/2023:16:48:55 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2890
+::1 - - [17/Jan/2023:16:49:46 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2785
+::1 - - [17/Jan/2023:16:49:46 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_table_add.png HTTP/1.1" 200 571
+::1 - - [17/Jan/2023:16:49:46 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_props.png HTTP/1.1" 200 573
+::1 - - [17/Jan/2023:16:50:07 -0500] "GET /phpmyadmin/index.php?route=/server/databases&ajax_request=true&ajax_page_request=true&_nocache=167399220718019342&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 7678
+::1 - - [17/Jan/2023:16:50:07 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_notice.png HTTP/1.1" 200 567
+::1 - - [17/Jan/2023:16:50:07 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_search.png HTTP/1.1" 200 538
+::1 - - [17/Jan/2023:16:50:07 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_asc.png HTTP/1.1" 200 146
+::1 - - [17/Jan/2023:16:50:07 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_deltbl.png HTTP/1.1" 200 577
+::1 - - [17/Jan/2023:16:50:07 -0500] "GET /phpmyadmin/js/dist/server/databases.js?v=5.2.0 HTTP/1.1" 200 4647
+::1 - - [17/Jan/2023:16:50:07 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2890
+::1 - - [17/Jan/2023:16:50:31 -0500] "POST /phpmyadmin/index.php?route=/server/databases/create HTTP/1.1" 200 1860
+::1 - - [17/Jan/2023:16:50:31 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_success.png HTTP/1.1" 200 465
+::1 - - [17/Jan/2023:16:50:31 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1673992231838187876&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 3209
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_routines.png HTTP/1.1" 200 306
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_relations.png HTTP/1.1" 200 140
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_events.png HTTP/1.1" 200 703
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/themes/pmahomme/img/eye.png HTTP/1.1" 200 663
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/themes/pmahomme/img/b_triggers.png HTTP/1.1" 200 446
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/themes/pmahomme/img/centralColumns.png HTTP/1.1" 200 586
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/js/dist/database/structure.js?v=5.2.0 HTTP/1.1" 200 14663
+::1 - - [17/Jan/2023:16:50:32 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:16:50:31 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2933
+::1 - - [17/Jan/2023:16:50:32 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2933
+::1 - - [17/Jan/2023:16:50:32 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1491
+::1 - - [17/Jan/2023:16:50:32 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1491
+::1 - - [17/Jan/2023:16:51:34 -0500] "GET /phpmyadmin/index.php?route=/database/sql&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1673992294828650321&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5198
+::1 - - [17/Jan/2023:16:51:35 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2935
+::1 - - [17/Jan/2023:16:51:36 -0500] "GET /phpmyadmin/themes/pmahomme/img/s_lock.png HTTP/1.1" 200 667
+::1 - - [17/Jan/2023:16:51:36 -0500] "POST /phpmyadmin/index.php?route=/database/sql/autocomplete HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:16:51:39 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 140
+::1 - - [17/Jan/2023:16:51:41 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 140
+::1 - - [17/Jan/2023:16:51:42 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 140
+::1 - - [17/Jan/2023:16:51:44 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:16:51:45 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:16:51:50 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 477
+::1 - - [17/Jan/2023:16:52:18 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:16:52:19 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 477
+::1 - - [17/Jan/2023:16:52:23 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:00:16 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:00:28 -0500] "GET /phpmyadmin/index.php?route=/&ajax_request=true&ajax_page_request=true&_nocache=1673992828552865025&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 8535
+::1 - - [17/Jan/2023:17:00:28 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2938
+::1 - - [17/Jan/2023:17:00:28 -0500] "POST /phpmyadmin/index.php?route=/database/structure/favorite-table&ajax_request=1&favorite_table=1&sync_favorite_tables=1 HTTP/1.1" 200 155
+::1 - - [17/Jan/2023:17:00:28 -0500] "POST /phpmyadmin/index.php?route=/version-check HTTP/1.1" 200 64
+::1 - - [17/Jan/2023:17:00:32 -0500] "POST /phpmyadmin/index.php?route=/themes/set HTTP/1.1" 302 9735
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/index.php?route=/ HTTP/1.1" 200 16887
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/logo_left.png HTTP/1.1" 200 2713
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/help.svg HTTP/1.1" 200 341
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/home.svg HTTP/1.1" 200 148
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/sign-out.svg HTTP/1.1" 200 136
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/manual.svg HTTP/1.1" 200 185
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/gear.svg HTTP/1.1" 200 448
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/reload.svg HTTP/1.1" 200 194
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/link.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:17:00:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-plus.svg HTTP/1.1" 200 523
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-expand.svg HTTP/1.1" 200 127
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/database.svg HTTP/1.1" 200 352
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/host.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/console.svg HTTP/1.1" 200 147
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/caret-up-stop.svg HTTP/1.1" 200 122
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/help-alt.svg HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/charset.svg HTTP/1.1" 200 290
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/theme.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/preferences.svg HTTP/1.1" 200 219
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/language.svg HTTP/1.1" 200 258
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/windows.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:17:00:33 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:17:00:33 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2938
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-collapse.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-browse.svg HTTP/1.1" 200 261
+::1 - - [17/Jan/2023:17:00:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-view.svg HTTP/1.1" 200 635
+::1 - - [17/Jan/2023:17:00:33 -0500] "POST /phpmyadmin/index.php?route=/version-check HTTP/1.1" 200 64
+::1 - - [17/Jan/2023:17:00:33 -0500] "POST /phpmyadmin/index.php?route=/database/structure/favorite-table&ajax_request=1&favorite_table=1&sync_favorite_tables=1 HTTP/1.1" 200 155
+::1 - - [17/Jan/2023:17:00:33 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:17:00:33 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/sql.svg HTTP/1.1" 200 339
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/server.svg HTTP/1.1" 200 409
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-vars.svg HTTP/1.1" 200 405
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/user-props.svg HTTP/1.1" 200 240
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/replication.svg HTTP/1.1" 200 349
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/export.svg HTTP/1.1" 200 179
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-engine.svg HTTP/1.1" 200 742
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/import.svg HTTP/1.1" 200 178
+::1 - - [17/Jan/2023:17:00:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/plugin.svg HTTP/1.1" 200 313
+::1 - - [17/Jan/2023:17:00:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:17:00:45 -0500] "GET /phpmyadmin/index.php?route=/server/sql&ajax_request=true&ajax_page_request=true&_nocache=1673992845123100869&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5064
+::1 - - [17/Jan/2023:17:00:45 -0500] "GET /phpmyadmin/js/dist/makegrid.js?v=5.2.0 HTTP/1.1" 200 79631
+::1 - - [17/Jan/2023:17:00:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:17:00:45 -0500] "GET /phpmyadmin/js/dist/sql.js?v=5.2.0 HTTP/1.1" 200 35111
+::1 - - [17/Jan/2023:17:00:45 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2938
+::1 - - [17/Jan/2023:17:00:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/lock.svg HTTP/1.1" 200 254
+::1 - - [17/Jan/2023:17:00:46 -0500] "POST /phpmyadmin/index.php?route=/database/sql/autocomplete HTTP/1.1" 200 1474
+::1 - - [17/Jan/2023:17:00:49 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:00:50 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 140
+::1 - - [17/Jan/2023:17:00:51 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:00:53 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 140
+::1 - - [17/Jan/2023:17:00:55 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:00:56 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:00:57 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 477
+::1 - - [17/Jan/2023:17:01:09 -0500] "GET /phpmyadmin/themes/bootstrap/img/visibility-hidden.svg HTTP/1.1" 200 458
+::1 - - [17/Jan/2023:17:02:12 -0500] "GET /phpmyadmin/index.php?route=/server/databases&ajax_request=true&ajax_page_request=true&_nocache=1673992932684667778&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 7756
+::1 - - [17/Jan/2023:17:02:12 -0500] "GET /phpmyadmin/js/dist/server/databases.js?v=5.2.0 HTTP/1.1" 200 4647
+::1 - - [17/Jan/2023:17:02:12 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-minus.svg HTTP/1.1" 200 504
+::1 - - [17/Jan/2023:17:02:12 -0500] "GET /phpmyadmin/themes/bootstrap/img/search.svg HTTP/1.1" 200 237
+::1 - - [17/Jan/2023:17:02:12 -0500] "GET /phpmyadmin/themes/bootstrap/img/notice.svg HTTP/1.1" 200 130
+::1 - - [17/Jan/2023:17:02:12 -0500] "GET /phpmyadmin/themes/bootstrap/img/sort-asc.svg HTTP/1.1" 200 121
+::1 - - [17/Jan/2023:17:02:12 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2938
+::1 - - [17/Jan/2023:17:02:19 -0500] "POST /phpmyadmin/index.php?route=/server/databases/create HTTP/1.1" 200 1857
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/success.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:17:02:19 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2971
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=fred&ajax_request=true&ajax_page_request=true&_nocache=1673992939197432986&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 3204
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-engine.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/routine.svg HTTP/1.1" 200 612
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/flag.svg HTTP/1.1" 200 112
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/glasses.svg HTTP/1.1" 200 513
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/designer.svg HTTP/1.1" 200 235
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/event.svg HTTP/1.1" 200 247
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/col.svg HTTP/1.1" 200 205
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/js/dist/database/structure.js?v=5.2.0 HTTP/1.1" 200 14663
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:17:02:19 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-plus.svg HTTP/1.1" 200 413
+::1 - - [17/Jan/2023:17:02:19 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2971
+::1 - - [17/Jan/2023:17:02:19 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1494
+::1 - - [17/Jan/2023:17:02:19 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1494
+::1 - - [17/Jan/2023:17:02:27 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=fred&ajax_request=true&ajax_page_request=true&_nocache=167399294768973322&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 3204
+::1 - - [17/Jan/2023:17:02:27 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2971
+::1 - - [17/Jan/2023:17:02:28 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1494
+::1 - - [17/Jan/2023:17:02:30 -0500] "GET /phpmyadmin/index.php?route=/database/sql&db=fred&ajax_request=true&ajax_page_request=true&_nocache=1673992950274281691&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5195
+::1 - - [17/Jan/2023:17:02:30 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2970
+::1 - - [17/Jan/2023:17:02:31 -0500] "POST /phpmyadmin/index.php?route=/database/sql/autocomplete HTTP/1.1" 200 1580
+::1 - - [17/Jan/2023:17:02:34 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 130
+::1 - - [17/Jan/2023:17:02:35 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 130
+::1 - - [17/Jan/2023:17:02:37 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:02:38 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 472
+::1 - - [17/Jan/2023:17:02:44 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:02:46 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 138
+::1 - - [17/Jan/2023:17:02:47 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:02:47 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 476
+::1 - - [17/Jan/2023:17:02:55 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 138
+::1 - - [17/Jan/2023:17:02:55 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:02:57 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 472
+::1 - - [17/Jan/2023:17:03:03 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:03:03 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 475
+::1 - - [17/Jan/2023:17:03:08 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:03:09 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 1914
+::1 - - [17/Jan/2023:17:03:09 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2938
+::1 - - [17/Jan/2023:17:03:59 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1673993039664169786&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 3211
+::1 - - [17/Jan/2023:17:03:59 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2938
+::1 - - [17/Jan/2023:17:04:04 -0500] "POST /phpmyadmin/index.php?route=/table/create HTTP/1.1" 200 34491
+::1 - - [17/Jan/2023:17:04:05 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2938
+::1 - - [17/Jan/2023:17:04:05 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=167399304542316224&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1493
+::1 - - [17/Jan/2023:17:04:50 -0500] "POST /phpmyadmin/index.php?route=/table/indexes HTTP/1.1" 200 2879
+::1 - - [17/Jan/2023:17:04:50 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png HTTP/1.1" 200 122
+::1 - - [17/Jan/2023:17:04:50 -0500] "GET /phpmyadmin/themes/bootstrap/img/s_sortable.png HTTP/1.1" 200 204
+::1 - - [17/Jan/2023:17:04:50 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/images/ui-icons_222222_256x240.png HTTP/1.1" 200 3765
+::1 - - [17/Jan/2023:17:05:10 -0500] "POST /phpmyadmin/index.php?route=/table/indexes HTTP/1.1" 200 2872
+::1 - - [17/Jan/2023:17:05:40 -0500] "POST /phpmyadmin/index.php?route=/table/structure/reserved-word-check HTTP/1.1" 200 89
+::1 - - [17/Jan/2023:17:05:40 -0500] "POST /phpmyadmin/index.php?route=/table/create HTTP/1.1" 200 1772
+::1 - - [17/Jan/2023:17:05:40 -0500] "GET /phpmyadmin/index.php?route=/database/structure&server=1&db=alphacrm&table=tCompany&ajax_request=true&ajax_page_request=true&_nocache=1673993140654988474&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5656
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/table.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/row-plus.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_browse.png HTTP/1.1" 200 271
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/favorite-alt.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_select.png HTTP/1.1" 200 325
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_empty.png HTTP/1.1" 200 327
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/minus.svg HTTP/1.1" 200 174
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/print.svg HTTP/1.1" 200 283
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-analyse.svg HTTP/1.1" 200 184
+::1 - - [17/Jan/2023:17:05:40 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3133
+::1 - - [17/Jan/2023:17:05:40 -0500] "GET /phpmyadmin/index.php?route=/table/structure&server=1&db=alphacrm&token=7c6f4a50602a4a3b775c526a28487d6a&goto=index.php%3Froute%3D%2Fdatabase%2Fstructure&table=tcompany&ajax_request=true&ajax_page_request=true&_nocache=1673993140670566641&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 8463
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/field-index-uinique.svg HTTP/1.1" 200 242
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/edit.svg HTTP/1.1" 200 196
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/key-primary.svg HTTP/1.1" 200 286
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/field-index-text.svg HTTP/1.1" 200 181
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/field-index.svg HTTP/1.1" 200 186
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/field-spatial.svg HTTP/1.1" 200 274
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/col-move.svg HTTP/1.1" 200 227
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/wizard.svg HTTP/1.1" 200 264
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/col-minus.svg HTTP/1.1" 200 344
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/optimize.svg HTTP/1.1" 200 307
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/col-plus.svg HTTP/1.1" 200 368
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/themes/bootstrap/img/b_rename.svg HTTP/1.1" 200 881
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/js/dist/table/structure.js?v=5.2.0 HTTP/1.1" 200 15749
+::1 - - [17/Jan/2023:17:05:41 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=167399314106875720&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1534
+::1 - - [17/Jan/2023:17:05:41 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:05:41 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993141692718427&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1534
+::1 - - [17/Jan/2023:17:11:17 -0500] "GET /exerciseChapter2.php HTTP/1.1" 200 188 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:11:17 -0500] "GET /favicon.ico HTTP/1.1" 200 30894 "http://localhost/exerciseChapter2.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:11:40 -0500] "GET /exerciseChapter2.php HTTP/1.1" 200 39 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:11:41 -0500] "GET /exerciseChapter2.php HTTP/1.1" 200 39 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:12:33 -0500] "GET /phpmyadmin/index.php?route=/table/create&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=167399355374862990&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 42996
+::1 - - [17/Jan/2023:17:12:33 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:12:41 -0500] "GET /phpmyadmin/index.php?route=/table/create&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1673993561484780929&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 42996
+::1 - - [17/Jan/2023:17:12:41 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:12:45 -0500] "GET /phpmyadmin/index.php?route=/database/sql&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1673993565055838484&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5200
+::1 - - [17/Jan/2023:17:12:45 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:12:45 -0500] "POST /phpmyadmin/index.php?route=/database/sql/autocomplete HTTP/1.1" 200 1711
+::1 - - [17/Jan/2023:17:12:47 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 130
+::1 - - [17/Jan/2023:17:12:49 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:12:53 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 396
+::1 - - [17/Jan/2023:17:13:02 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3666
+::1 - - [17/Jan/2023:17:13:03 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-view-plus.svg HTTP/1.1" 200 837
+::1 - - [17/Jan/2023:17:13:06 -0500] "GET /phpmyadmin/index.php?route=/table/create&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1673993586644780580&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 42996
+::1 - - [17/Jan/2023:17:13:06 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:13:14 -0500] "GET /phpmyadmin/index.php?route=/database/sql&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1673993594353162985&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5200
+::1 - - [17/Jan/2023:17:13:14 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:13:16 -0500] "GET /phpmyadmin/index.php?route=/server/databases&ajax_request=true&ajax_page_request=true&_nocache=1673993596367443967&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 7756
+::1 - - [17/Jan/2023:17:13:16 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:13:17 -0500] "GET /phpmyadmin/index.php?route=/server/sql&ajax_request=true&ajax_page_request=true&_nocache=1673993597935705360&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5064
+::1 - - [17/Jan/2023:17:13:18 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3134
+::1 - - [17/Jan/2023:17:13:18 -0500] "POST /phpmyadmin/index.php?route=/database/sql/autocomplete HTTP/1.1" 200 1474
+::1 - - [17/Jan/2023:17:13:21 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 140
+::1 - - [17/Jan/2023:17:13:23 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:13:23 -0500] "POST /phpmyadmin/index.php?route=/import HTTP/1.1" 200 1825
+::1 - - [17/Jan/2023:17:13:24 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3169
+::1 - - [17/Jan/2023:17:13:28 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=dvd&ajax_request=true&ajax_page_request=true&_nocache=1673993608651882383&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 3203
+::1 - - [17/Jan/2023:17:13:28 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3169
+::1 - - [17/Jan/2023:17:13:28 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1494
+::1 - - [17/Jan/2023:17:13:28 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1494
+::1 - - [17/Jan/2023:17:13:57 -0500] "POST /phpmyadmin/index.php?route=/table/create HTTP/1.1" 200 25895
+::1 - - [17/Jan/2023:17:13:58 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3165
+::1 - - [17/Jan/2023:17:13:58 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993638184914354&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1534
+::1 - - [17/Jan/2023:17:14:27 -0500] "POST /phpmyadmin/index.php?route=/table/indexes HTTP/1.1" 200 2863
+::1 - - [17/Jan/2023:17:14:33 -0500] "POST /phpmyadmin/index.php?route=/table/structure/reserved-word-check HTTP/1.1" 200 89
+::1 - - [17/Jan/2023:17:14:33 -0500] "POST /phpmyadmin/index.php?route=/table/create HTTP/1.1" 200 1754
+::1 - - [17/Jan/2023:17:14:33 -0500] "GET /phpmyadmin/index.php?route=/database/structure&server=1&db=dvd&table=tArtists&ajax_request=true&ajax_page_request=true&_nocache=1673993673697298426&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5646
+::1 - - [17/Jan/2023:17:14:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:17:14:33 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3266
+::1 - - [17/Jan/2023:17:14:33 -0500] "GET /phpmyadmin/index.php?route=/table/structure&server=1&db=dvd&token=7c6f4a50602a4a3b775c526a28487d6a&goto=index.php%3Froute%3D%2Fdatabase%2Fstructure&table=tartists&ajax_request=true&ajax_page_request=true&_nocache=1673993673709982557&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 8227
+::1 - - [17/Jan/2023:17:14:33 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3267
+::1 - - [17/Jan/2023:17:14:33 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993673914378522&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1559
+::1 - - [17/Jan/2023:17:14:34 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3267
+::1 - - [17/Jan/2023:17:14:34 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993674253551954&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1559
+::1 - - [17/Jan/2023:17:14:35 -0500] "GET /phpmyadmin/index.php?route=/table/create&db=dvd&ajax_request=true&ajax_page_request=true&_nocache=1673993675457364331&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 42983
+::1 - - [17/Jan/2023:17:14:35 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3267
+::1 - - [17/Jan/2023:17:14:47 -0500] "GET /phpmyadmin/index.php?route=/table/create&db=dvd&ajax_request=true&ajax_page_request=true&_nocache=1673993687629775600&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 42983
+::1 - - [17/Jan/2023:17:14:47 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3267
+::1 - - [17/Jan/2023:17:14:53 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=dvd&ajax_request=true&ajax_page_request=true&_nocache=1673993693214925362&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5648
+::1 - - [17/Jan/2023:17:14:53 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:17:14:53 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3267
+::1 - - [17/Jan/2023:17:15:27 -0500] "POST /phpmyadmin/index.php?route=/table/create HTTP/1.1" 200 34481
+::1 - - [17/Jan/2023:17:15:27 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3267
+::1 - - [17/Jan/2023:17:15:27 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993727454843673&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1559
+::1 - - [17/Jan/2023:17:16:16 -0500] "POST /phpmyadmin/index.php?route=/table/indexes HTTP/1.1" 200 2872
+::1 - - [17/Jan/2023:17:16:33 -0500] "POST /phpmyadmin/index.php?route=/table/indexes HTTP/1.1" 200 2872
+::1 - - [17/Jan/2023:17:17:08 -0500] "POST /phpmyadmin/index.php?route=/table/create HTTP/1.1" 200 43094
+::1 - - [17/Jan/2023:17:17:22 -0500] "POST /phpmyadmin/index.php?route=/table/indexes HTTP/1.1" 200 2866
+::1 - - [17/Jan/2023:17:18:07 -0500] "POST /phpmyadmin/index.php?route=/table/structure/reserved-word-check HTTP/1.1" 200 89
+::1 - - [17/Jan/2023:17:18:07 -0500] "POST /phpmyadmin/index.php?route=/table/create HTTP/1.1" 200 1782
+::1 - - [17/Jan/2023:17:18:08 -0500] "GET /phpmyadmin/index.php?route=/database/structure&server=1&db=dvd&table=tRecordings&ajax_request=true&ajax_page_request=true&_nocache=1673993888048151448&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5873
+::1 - - [17/Jan/2023:17:18:08 -0500] "GET /phpmyadmin/index.php?route=/table/structure&server=1&db=dvd&token=7c6f4a50602a4a3b775c526a28487d6a&goto=index.php%3Froute%3D%2Fdatabase%2Fstructure&table=trecordings&ajax_request=true&ajax_page_request=true&_nocache=1673993888066128815&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 8814
+::1 - - [17/Jan/2023:17:18:08 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3345
+::1 - - [17/Jan/2023:17:18:08 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3345
+::1 - - [17/Jan/2023:17:18:08 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993888263329436&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:08 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3345
+::1 - - [17/Jan/2023:17:18:08 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=167399388846635516&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:18 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=tartists&ajax_request=true&ajax_page_request=true&_nocache=1673993898618399219&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5447
+::1 - - [17/Jan/2023:17:18:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/bookmark-plus.svg HTTP/1.1" 200 222
+::1 - - [17/Jan/2023:17:18:18 -0500] "GET /phpmyadmin/js/dist/multi_column_sort.js?v=5.2.0 HTTP/1.1" 200 1281
+::1 - - [17/Jan/2023:17:18:18 -0500] "GET /phpmyadmin/js/dist/gis_data_editor.js?v=5.2.0 HTTP/1.1" 200 13554
+::1 - - [17/Jan/2023:17:18:18 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993898988649113&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:30 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=tartists&ajax_request=true&ajax_page_request=true&_nocache=1673993910615488104&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5446
+::1 - - [17/Jan/2023:17:18:30 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993910871583552&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:34 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=trecordings&ajax_request=true&ajax_page_request=true&_nocache=1673993914686645316&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5470
+::1 - - [17/Jan/2023:17:18:34 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993914933742317&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:35 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=tartists&ajax_request=true&ajax_page_request=true&_nocache=1673993915690323776&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5449
+::1 - - [17/Jan/2023:17:18:35 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993915912234878&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:38 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2034
+::1 - - [17/Jan/2023:17:18:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/pause.svg HTTP/1.1" 200 169
+::1 - - [17/Jan/2023:17:18:44 -0500] "POST /phpmyadmin/index.php HTTP/1.1" 200 5557
+::1 - - [17/Jan/2023:17:18:44 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3345
+::1 - - [17/Jan/2023:17:18:44 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993924660813002&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:44 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:18:46 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=tartists&ajax_request=true&ajax_page_request=true&_nocache=1673993926967176467&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5447
+::1 - - [17/Jan/2023:17:18:47 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=167399392720631037&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:51 -0500] "GET /phpmyadmin/index.php?route=/table/sql&db=dvd&table=tartists&ajax_request=true&ajax_page_request=true&_nocache=1673993931805375066&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5561
+::1 - - [17/Jan/2023:17:18:52 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3345
+::1 - - [17/Jan/2023:17:18:52 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993932017528027&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:18:52 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:17:18:53 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=tartists&ajax_request=true&ajax_page_request=true&_nocache=167399393390833159&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5450
+::1 - - [17/Jan/2023:17:18:54 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993934147535413&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:19:29 -0500] "POST /phpmyadmin/index.php?route=/sql HTTP/1.1" 200 6904
+::1 - - [17/Jan/2023:17:19:29 -0500] "GET /phpmyadmin/js/dist/chart.js?v=5.2.0 HTTP/1.1" 200 17159
+::1 - - [17/Jan/2023:17:19:29 -0500] "GET /phpmyadmin/js/vendor/jqplot/plugins/jqplot.highlighter.js?v=5.2.0 HTTP/1.1" 200 22024
+::1 - - [17/Jan/2023:17:19:29 -0500] "GET /phpmyadmin/js/vendor/jqplot/plugins/jqplot.pieRenderer.js?v=5.2.0 HTTP/1.1" 200 37544
+::1 - - [17/Jan/2023:17:19:29 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.tablesorter.js?v=5.2.0 HTTP/1.1" 200 108108
+::1 - - [17/Jan/2023:17:19:29 -0500] "GET /phpmyadmin/js/vendor/jqplot/jquery.jqplot.js?v=5.2.0 HTTP/1.1" 200 471632
+::1 - - [17/Jan/2023:17:19:29 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993969902597470&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1633
+::1 - - [17/Jan/2023:17:19:30 -0500] "POST /phpmyadmin/index.php?route=/sql HTTP/1.1" 200 5450
+::1 - - [17/Jan/2023:17:19:30 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993970838939417&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:19:41 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=tartists HTTP/1.1" 200 14676
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/js/dist/gis_data_editor.js?v=5.2.0 HTTP/1.1" 200 13554
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/js/dist/multi_column_sort.js?v=5.2.0 HTTP/1.1" 200 1281
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:17:19:42 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3345
+::1 - - [17/Jan/2023:17:19:42 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:17:19:42 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1673993982323223481&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:17:19:42 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:17:19:42 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:17:28:48 -0500] "GET /testdb.php HTTP/1.1" 200 211 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:28:59 -0500] "GET /testdb.php HTTP/1.1" 200 210 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:29:20 -0500] "GET /testdb.php HTTP/1.1" 200 211 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:30:34 -0500] "GET /testdb.php HTTP/1.1" 200 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:40:12 -0500] "GET /testdb.php HTTP/1.1" 200 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:40:13 -0500] "GET /testdb.php HTTP/1.1" 200 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:40:52 -0500] "GET /dbWIP.php HTTP/1.1" 200 146 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:41:55 -0500] "GET /dbWIP.php HTTP/1.1" 200 146 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:43:38 -0500] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:17:46:54 -0500] "GET /dbWIP.php HTTP/1.1" 200 146 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:17:46:55 -0500] "GET /dbWIP.php HTTP/1.1" 200 146 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:02:20 -0500] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:18:20:44 -0500] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:18:27:33 -0500] "GET /dbWIP/ HTTP/1.1" 404 296 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:28:00 -0500] "GET /dbWIP/dropDBalphacrm.php HTTP/1.1" 404 296 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:28:27 -0500] "GET /dbWIP/ HTTP/1.1" 200 987 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:28:27 -0500] "GET /icons/back.gif HTTP/1.1" 200 216 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:28:27 -0500] "GET /icons/text.gif HTTP/1.1" 200 229 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:28:27 -0500] "GET /icons/blank.gif HTTP/1.1" 200 148 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:28:29 -0500] "GET /dbWIP/dropDBalphacrm.php HTTP/1.1" 200 151 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:29:49 -0500] "GET /dbWIP/dropDBalphacrm.php HTTP/1.1" 200 239 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:29:59 -0500] "GET /dbWIP/dropDBalphacrm.php HTTP/1.1" 200 348 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:30:17 -0500] "GET /dbWIP/dropDBalphacrm.php HTTP/1.1" 200 38 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:31:26 -0500] "GET /dbWIP/ HTTP/1.1" 200 987 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:32:19 -0500] "GET /dbWIP/ HTTP/1.1" 200 987 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:37:19 -0500] "-" 408 - "-" "-"
+::1 - - [17/Jan/2023:18:38:49 -0500] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:18:42:23 -0500] "GET /dbWIP/ HTTP/1.1" 200 1211 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:42:25 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 250 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:42:42 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 31 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:44:46 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 249 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:45:05 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 363 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:45:36 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:45:36 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:45:40 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:45:41 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:45:50 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:45:53 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:47:06 -0500] "GET /dbWIP/ HTTP/1.1" 200 1211 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:47:08 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:18:56:36 -0500] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:18:58:02 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:03:02 -0500] "-" 408 - "-" "-"
+::1 - - [17/Jan/2023:19:10:44 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 251 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:11:40 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 389 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:14:04 -0500] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:19:14:05 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 196 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:14:50 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 249 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:14:58 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:14:59 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:15:02 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:15:17 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:15:36 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 38 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:16:08 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 63 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:30:56 -0500] "GET /dbWIP/ HTTP/1.1" 200 1211 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:31:44 -0500] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:19:35:30 -0500] "GET /dbWIP/ HTTP/1.1" 200 1432 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:35:33 -0500] "GET /dbWIP/createDBalphacrm.php HTTP/1.1" 200 292 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:35:44 -0500] "GET /dbWIP/createDBalphacrm.php HTTP/1.1" 200 403 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:35:53 -0500] "GET /dbWIP/createDBalphacrm.php HTTP/1.1" 200 403 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:36:22 -0500] "GET /dbWIP/createDBalphacrm.php HTTP/1.1" 200 89 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:36:38 -0500] "GET /dbWIP/alphacrmTableCreate.php HTTP/1.1" 200 161 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=dvd&table=tartists HTTP/1.1" 200 14724
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7862
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:19:36:51 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:19:36:51 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002211960219872&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1579
+::1 - - [17/Jan/2023:19:36:51 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3391
+::1 - - [17/Jan/2023:19:36:51 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:19:36:52 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:19:36:53 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:19:36:53 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tcompany&ajax_request=true&ajax_page_request=true&_nocache=1674002213397418992&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5554
+::1 - - [17/Jan/2023:19:36:53 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002213647406804&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:36:56 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1674002216991316042&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5885
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/routine.svg HTTP/1.1" 200 612
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/event.svg HTTP/1.1" 200 247
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/col.svg HTTP/1.1" 200 205
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/designer.svg HTTP/1.1" 200 235
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/help-alt.svg HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/sort-asc.svg HTTP/1.1" 200 121
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_browse.png HTTP/1.1" 200 271
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_select.png HTTP/1.1" 200 325
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/print.svg HTTP/1.1" 200 283
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-analyse.svg HTTP/1.1" 200 184
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_empty.png HTTP/1.1" 200 327
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/favorite-alt.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/minus.svg HTTP/1.1" 200 174
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/js/dist/database/structure.js?v=5.2.0 HTTP/1.1" 200 14663
+::1 - - [17/Jan/2023:19:36:57 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:19:36:57 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:19:37:00 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tcompany&pos=0&ajax_request=true&ajax_page_request=true&_nocache=1674002220442401132&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5550
+::1 - - [17/Jan/2023:19:37:00 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002220696354385&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:37:08 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tcompany&ajax_request=true&ajax_page_request=true&_nocache=1674002228308913841&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5552
+::1 - - [17/Jan/2023:19:37:08 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002228551381088&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/index.php?route=/&ajax_request=true&ajax_page_request=true&_nocache=1674002255462155378&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 8536
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/replication.svg HTTP/1.1" 200 349
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/server.svg HTTP/1.1" 200 409
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-vars.svg HTTP/1.1" 200 405
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/charset.svg HTTP/1.1" 200 290
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-engine.svg HTTP/1.1" 200 742
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/plugin.svg HTTP/1.1" 200 313
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/js/dist/home.js?v=5.2.0 HTTP/1.1" 200 5280
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/language.svg HTTP/1.1" 200 258
+::1 - - [17/Jan/2023:19:37:35 -0500] "GET /phpmyadmin/themes/bootstrap/img/theme.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:19:37:35 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:19:37:35 -0500] "POST /phpmyadmin/index.php?route=/database/structure/favorite-table&ajax_request=1&favorite_table=1&sync_favorite_tables=1 HTTP/1.1" 200 155
+::1 - - [17/Jan/2023:19:37:35 -0500] "POST /phpmyadmin/index.php?route=/version-check HTTP/1.1" 200 64
+::1 - - [17/Jan/2023:19:37:38 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1674002258643828597&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5885
+::1 - - [17/Jan/2023:19:37:38 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:19:37:38 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:19:37:58 -0500] "GET /phpmyadmin/index.php?route=/table/change&db=alphacrm&table=tcompany&ajax_request=true&ajax_page_request=true&_nocache=167400227838015971&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 10284
+::1 - - [17/Jan/2023:19:37:58 -0500] "GET /phpmyadmin/js/dist/makegrid.js?v=5.2.0 HTTP/1.1" 200 79631
+::1 - - [17/Jan/2023:19:37:58 -0500] "GET /phpmyadmin/js/dist/sql.js?v=5.2.0 HTTP/1.1" 200 35111
+::1 - - [17/Jan/2023:19:37:58 -0500] "GET /phpmyadmin/js/vendor/jquery/additional-methods.js?v=5.2.0 HTTP/1.1" 200 52032
+::1 - - [17/Jan/2023:19:37:58 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:19:37:58 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002278808751200&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:39:23 -0500] "GET /phpmyadmin/themes/bootstrap/img/lock.svg HTTP/1.1" 200 254
+::1 - - [17/Jan/2023:19:40:28 -0500] "POST /phpmyadmin/index.php?route=/table/replace HTTP/1.1" 200 6232
+::1 - - [17/Jan/2023:19:40:29 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:19:40:29 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002429038855295&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:40:29 -0500] "POST /phpmyadmin/index.php?route=/lint HTTP/1.1" 200 28
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tcompany&ajax_request=true&ajax_page_request=true&_nocache=1674002448390101463&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 9490
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/themes/bootstrap/img/edit.svg HTTP/1.1" 200 196
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/themes/bootstrap/img/chart.svg HTTP/1.1" 200 182
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_drop.png HTTP/1.1" 200 111
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_pointer.png HTTP/1.1" 200 102
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/themes/bootstrap/img/s_fulltext.png HTTP/1.1" 200 176
+::1 - - [17/Jan/2023:19:40:48 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002448749789170&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:40:55 -0500] "POST /phpmyadmin/index.php?route=/table/delete/confirm HTTP/1.1" 200 2070
+::1 - - [17/Jan/2023:19:40:55 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:19:40:55 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=167400245545734894&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:40:58 -0500] "POST /phpmyadmin/index.php?route=/table/delete/rows HTTP/1.1" 200 2963
+::1 - - [17/Jan/2023:19:40:58 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674002458937139993&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:45:13 -0500] "GET /dbWIP/ HTTP/1.1" 200 1868 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:45:13 -0500] "GET /icons/unknown.gif HTTP/1.1" 200 245 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:45:16 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 83 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:45:45 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 121 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:50:45 -0500] "-" 408 - "-" "-"
+::1 - - [17/Jan/2023:19:53:36 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 121 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:53:36 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 121 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:53:44 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 42 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:55:27 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tcompany&ajax_request=true&ajax_page_request=true&_nocache=16740033273834235&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5552
+::1 - - [17/Jan/2023:19:55:27 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674003327611105129&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tcompany HTTP/1.1" 200 15242
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:19:55:32 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:19:55:32 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:19:55:32 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674003332575118387&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:55:32 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:19:55:32 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:19:55:35 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tcompany&ajax_request=true&ajax_page_request=true&_nocache=1674003335230228432&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5551
+::1 - - [17/Jan/2023:19:55:35 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674003335481365995&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:19:56:39 -0500] "GET /dbWIP/ HTTP/1.1" 200 1868 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:56:41 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 42 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:56:44 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:56:45 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:56:46 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 - "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:58:01 -0500] "GET /dbWIP/ HTTP/1.1" 200 1868 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:58:03 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 42 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:19:58:05 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 42 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:03:01 -0500] "-" 408 - "-" "-"
+::1 - - [17/Jan/2023:20:07:20 -0500] "GET /dbWIP/ HTTP/1.1" 200 1876 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:11:32 -0500] "GET /dbWIP/ HTTP/1.1" 200 2312 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:11:40 -0500] "GET / HTTP/1.1" 200 230
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1674004322445580705&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5885
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/routine.svg HTTP/1.1" 200 612
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/event.svg HTTP/1.1" 200 247
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/designer.svg HTTP/1.1" 200 235
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/col.svg HTTP/1.1" 200 205
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/sort-asc.svg HTTP/1.1" 200 121
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/help-alt.svg HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/favorite-alt.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_browse.png HTTP/1.1" 200 271
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_select.png HTTP/1.1" 200 325
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/bd_empty.png HTTP/1.1" 200 327
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/minus.svg HTTP/1.1" 200 174
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/print.svg HTTP/1.1" 200 283
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-analyse.svg HTTP/1.1" 200 184
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/js/dist/database/structure.js?v=5.2.0 HTTP/1.1" 200 14663
+::1 - - [17/Jan/2023:20:12:02 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:20:12:02 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3393
+::1 - - [17/Jan/2023:20:12:07 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tcompany&pos=0 HTTP/1.1" 200 15236
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.min.js?v=5.2.0 HTTP/1.1" 200 89501
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-migrate.js?v=5.2.0 HTTP/1.1" 200 30789
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/sprintf.js?v=5.2.0 HTTP/1.1" 200 7409
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/ajax.js?v=5.2.0 HTTP/1.1" 200 29575
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/keyhandler.js?v=5.2.0 HTTP/1.1" 200 2988
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui.min.js?v=5.2.0 HTTP/1.1" 200 255082
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/name-conflict-fixes.js?v=5.2.0 HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js?v=5.2.0 HTTP/1.1" 200 78129
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/js.cookie.js?v=5.2.0 HTTP/1.1" 200 3883
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.validate.js?v=5.2.0 HTTP/1.1" 200 50963
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js?v=5.2.0 HTTP/1.1" 200 78475
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js?v=5.2.0 HTTP/1.1" 200 1608
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/menu_resizer.js?v=5.2.0 HTTP/1.1" 200 5721
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/cross_framing_protection.js?v=5.2.0 HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/config.js?v=5.2.0 HTTP/1.1" 200 24062
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/doclinks.js?v=5.2.0 HTTP/1.1" 200 18277
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/functions.js?v=5.2.0 HTTP/1.1" 200 145101
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/navigation.js?v=5.2.0 HTTP/1.1" 200 52604
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/indexes.js?v=5.2.0 HTTP/1.1" 200 26428
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/common.js?v=5.2.0 HTTP/1.1" 200 4548
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/page_settings.js?v=5.2.0 HTTP/1.1" 200 1544
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/gis_data_editor.js?v=5.2.0 HTTP/1.1" 200 13554
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/multi_column_sort.js?v=5.2.0 HTTP/1.1" 200 1281
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.js?v=5.2.0 HTTP/1.1" 200 400215
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/mode/sql/sql.js?v=5.2.0 HTTP/1.1" 200 51017
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js?v=5.2.0 HTTP/1.1" 200 2773
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js?v=5.2.0 HTTP/1.1" 200 19979
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js?v=5.2.0 HTTP/1.1" 200 9604
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.js?v=5.2.0 HTTP/1.1" 200 9985
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js?v=5.2.0 HTTP/1.1" 200 944
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/vendor/tracekit.js?v=5.2.0 HTTP/1.1" 200 47128
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/error_report.js?v=5.2.0 HTTP/1.1" 200 9290
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/drag_drop_import.js?v=5.2.0 HTTP/1.1" 200 12346
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/shortcuts_handler.js?v=5.2.0 HTTP/1.1" 200 3311
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/dist/console.js?v=5.2.0 HTTP/1.1" 200 49251
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/logo_left.png HTTP/1.1" 200 2713
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7862
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/home.svg HTTP/1.1" 200 148
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/sign-out.svg HTTP/1.1" 200 136
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/help.svg HTTP/1.1" 200 341
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/database.svg HTTP/1.1" 200 352
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-expand.svg HTTP/1.1" 200 127
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/gear.svg HTTP/1.1" 200 448
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/manual.svg HTTP/1.1" 200 185
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/reload.svg HTTP/1.1" 200 194
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/link.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-plus.svg HTTP/1.1" 200 523
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/host.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/table.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-browse.svg HTTP/1.1" 200 261
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-engine.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/sql.svg HTTP/1.1" 200 339
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/search.svg HTTP/1.1" 200 237
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/row-plus.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/export.svg HTTP/1.1" 200 179
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/import.svg HTTP/1.1" 200 178
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/user-props.svg HTTP/1.1" 200 240
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/preferences.svg HTTP/1.1" 200 219
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/glasses.svg HTTP/1.1" 200 513
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/flag.svg HTTP/1.1" 200 112
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/caret-up-stop.svg HTTP/1.1" 200 122
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/success.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-view-plus.svg HTTP/1.1" 200 837
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/bookmark-plus.svg HTTP/1.1" 200 222
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/windows.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/console.svg HTTP/1.1" 200 147
+::1 - - [17/Jan/2023:20:12:08 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:12:08 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2381
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:20:12:08 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674004328491396911&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1583
+::1 - - [17/Jan/2023:20:12:08 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1979
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-plus.svg HTTP/1.1" 200 413
+::1 - - [17/Jan/2023:20:12:08 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-collapse.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:20:12:08 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tperson&pos=0 HTTP/1.1" 200 15172
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.min.js?v=5.2.0 HTTP/1.1" 200 89501
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-migrate.js?v=5.2.0 HTTP/1.1" 200 30789
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/sprintf.js?v=5.2.0 HTTP/1.1" 200 7409
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/ajax.js?v=5.2.0 HTTP/1.1" 200 29575
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/keyhandler.js?v=5.2.0 HTTP/1.1" 200 2988
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui.min.js?v=5.2.0 HTTP/1.1" 200 255082
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/name-conflict-fixes.js?v=5.2.0 HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/js.cookie.js?v=5.2.0 HTTP/1.1" 200 3883
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js?v=5.2.0 HTTP/1.1" 200 78129
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.validate.js?v=5.2.0 HTTP/1.1" 200 50963
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js?v=5.2.0 HTTP/1.1" 200 78475
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js?v=5.2.0 HTTP/1.1" 200 1608
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/menu_resizer.js?v=5.2.0 HTTP/1.1" 200 5721
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/cross_framing_protection.js?v=5.2.0 HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/config.js?v=5.2.0 HTTP/1.1" 200 24062
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/doclinks.js?v=5.2.0 HTTP/1.1" 200 18277
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/functions.js?v=5.2.0 HTTP/1.1" 200 145101
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/navigation.js?v=5.2.0 HTTP/1.1" 200 52604
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/indexes.js?v=5.2.0 HTTP/1.1" 200 26428
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/common.js?v=5.2.0 HTTP/1.1" 200 4548
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/page_settings.js?v=5.2.0 HTTP/1.1" 200 1544
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/gis_data_editor.js?v=5.2.0 HTTP/1.1" 200 13554
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/multi_column_sort.js?v=5.2.0 HTTP/1.1" 200 1281
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.js?v=5.2.0 HTTP/1.1" 200 400215
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/mode/sql/sql.js?v=5.2.0 HTTP/1.1" 200 51017
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js?v=5.2.0 HTTP/1.1" 200 2773
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js?v=5.2.0 HTTP/1.1" 200 19979
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js?v=5.2.0 HTTP/1.1" 200 9604
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.js?v=5.2.0 HTTP/1.1" 200 9985
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js?v=5.2.0 HTTP/1.1" 200 944
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/vendor/tracekit.js?v=5.2.0 HTTP/1.1" 200 47128
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/error_report.js?v=5.2.0 HTTP/1.1" 200 9290
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/drag_drop_import.js?v=5.2.0 HTTP/1.1" 200 12346
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/shortcuts_handler.js?v=5.2.0 HTTP/1.1" 200 3311
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/dist/console.js?v=5.2.0 HTTP/1.1" 200 49251
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/logo_left.png HTTP/1.1" 200 2713
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7862
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/home.svg HTTP/1.1" 200 148
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/sign-out.svg HTTP/1.1" 200 136
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/help.svg HTTP/1.1" 200 341
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/database.svg HTTP/1.1" 200 352
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/manual.svg HTTP/1.1" 200 185
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-expand.svg HTTP/1.1" 200 127
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/gear.svg HTTP/1.1" 200 448
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/reload.svg HTTP/1.1" 200 194
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/link.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/host.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-plus.svg HTTP/1.1" 200 523
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/table.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-browse.svg HTTP/1.1" 200 261
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-engine.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/sql.svg HTTP/1.1" 200 339
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/search.svg HTTP/1.1" 200 237
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/row-plus.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/export.svg HTTP/1.1" 200 179
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/import.svg HTTP/1.1" 200 178
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/user-props.svg HTTP/1.1" 200 240
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/preferences.svg HTTP/1.1" 200 219
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/glasses.svg HTTP/1.1" 200 513
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/flag.svg HTTP/1.1" 200 112
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/caret-up-stop.svg HTTP/1.1" 200 122
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/success.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-view-plus.svg HTTP/1.1" 200 837
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/bookmark-plus.svg HTTP/1.1" 200 222
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/windows.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/console.svg HTTP/1.1" 200 147
+::1 - - [17/Jan/2023:20:12:15 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:12:15 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2393
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:20:12:15 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674004335607666575&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:12:15 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:12:15 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1979
+::1 - - [17/Jan/2023:20:12:16 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-plus.svg HTTP/1.1" 200 413
+::1 - - [17/Jan/2023:20:12:16 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-collapse.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:20:12:15 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:12:58 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 42 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:12:59 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 42 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:13:24 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 42 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:13:32 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tcompany&pos=0&ajax_request=true&ajax_page_request=true&_nocache=1674004412793783538&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5554
+::1 - - [17/Jan/2023:20:13:33 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674004413051963222&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:16:09 -0500] "GET /DEMO HTTP/1.1" 301 330 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:16:09 -0500] "GET /DEMO/ HTTP/1.1" 200 766 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:16:32 -0500] "GET /DEMO/ HTTP/1.1" 200 766 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:17:31 -0500] "GET /DEMO/ HTTP/1.1" 200 988 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:17:31 -0500] "GET /DEMO/phpOperatorsArith.php HTTP/1.1" 200 154 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:26:45 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 132 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:26:58 -0500] "GET /dbWIP/insertcompanies01.php HTTP/1.1" 200 46 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:27:30 -0500] "GET /dbWIP/updatecompanies01.php HTTP/1.1" 200 45 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:28:03 -0500] "GET /dbWIP/updatecompanies01.php HTTP/1.1" 200 49 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:29:07 -0500] "GET /dbWIP/peopletodelete.php HTTP/1.1" 200 239 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:29:38 -0500] "GET /dbWIP/peopletodelete.php HTTP/1.1" 200 495 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:29:55 -0500] "GET /dbWIP/peopletodelete.php HTTP/1.1" 200 495 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:31:04 -0500] "GET /dbWIP/ HTTP/1.1" 200 2533 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:31:06 -0500] "GET /dbWIP/insertPersonData.php HTTP/1.1" 200 245 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:31:27 -0500] "GET /dbWIP/insertPersonData.php HTTP/1.1" 200 380 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:32:23 -0500] "GET /dbWIP/insertPersonData.php HTTP/1.1" 200 499 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:33:05 -0500] "GET /dbWIP/ HTTP/1.1" 200 2533 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:33:10 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 237 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:33:24 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 41 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:34:25 -0500] "GET /dbWIP/ HTTP/1.1" 200 2533 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:34:26 -0500] "GET /dbWIP/ HTTP/1.1" 200 2533 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:34:32 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 41 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:34:37 -0500] "GET /dbWIP/peopletodelete.php HTTP/1.1" 200 45 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:34:52 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 41 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:35:27 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 82 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tcompany&pos=0 HTTP/1.1" 200 19317
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/js/dist/sql.js?v=5.2.0 HTTP/1.1" 200 35111
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/js/dist/makegrid.js?v=5.2.0 HTTP/1.1" 200 79631
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/s_fulltext.png HTTP/1.1" 200 176
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/edit.svg HTTP/1.1" 200 196
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/chart.svg HTTP/1.1" 200 182
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_drop.png HTTP/1.1" 200 111
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_pointer.png HTTP/1.1" 200 102
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:20:35:32 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:35:32 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:35:32 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:35:32 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674005732918484594&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:35:33 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:35:36 -0500] "GET /phpmyadmin/themes/bootstrap/img/visibility-hidden.svg HTTP/1.1" 200 458
+::1 - - [17/Jan/2023:20:35:37 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:20:35:37 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tperson&ajax_request=true&ajax_page_request=true&_nocache=1674005737521474924&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 8474
+::1 - - [17/Jan/2023:20:35:37 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674005737807205376&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:35:41 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 82 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tperson HTTP/1.1" 200 17997
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:20:35:43 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:35:43 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:35:43 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674005743427848748&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:35:43 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:35:43 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:36:02 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 82 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tperson HTTP/1.1" 200 17992
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:20:36:04 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:36:04 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674005764911495964&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:36:04 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:36:04 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:36:05 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:36:10 -0500] "GET /dbWIP/deletepeople.php HTTP/1.1" 200 82 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tperson HTTP/1.1" 200 17982
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:20:36:11 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:36:11 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:36:11 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:36:11 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674005771960448871&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:36:12 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:36:12 -0500] "GET /phpmyadmin/themes/bootstrap/img/visibility-hidden.svg HTTP/1.1" 200 458
+::1 - - [17/Jan/2023:20:39:29 -0500] "GET /dbWIP/ HTTP/1.1" 200 2533 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:39:36 -0500] "GET /dbWIP/insertPersonData.php HTTP/1.1" 200 499 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tperson HTTP/1.1" 200 18670
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7862
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:20:41:25 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:41:25 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:41:25 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:41:25 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006085724272034&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:41:26 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:41:33 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:20:41:33 -0500] "POST /phpmyadmin/index.php HTTP/1.1" 200 4620
+::1 - - [17/Jan/2023:20:41:34 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006094217132171&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:41:37 -0500] "GET /phpmyadmin/index.php?route=%2Fsql&db=alphacrm&table=tcompany&server=1&ajax_request=true&ajax_page_request=true&_nocache=1674006097451970436&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 9716
+::1 - - [17/Jan/2023:20:41:37 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006097732685187&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:41:40 -0500] "GET /phpmyadmin/index.php?route=%2Fsql&db=alphacrm&table=tperson&server=1&ajax_request=true&ajax_page_request=true&_nocache=1674006100548784273&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 9106
+::1 - - [17/Jan/2023:20:41:40 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006100852406276&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:41:46 -0500] "POST /phpmyadmin/index.php?route=/table/delete/confirm HTTP/1.1" 200 2068
+::1 - - [17/Jan/2023:20:41:46 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:41:47 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006107013616578&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:41:49 -0500] "POST /phpmyadmin/index.php?route=/table/delete/rows HTTP/1.1" 200 5941
+::1 - - [17/Jan/2023:20:41:49 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006109817421174&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:47:10 -0500] "GET /dbWIP/ HTTP/1.1" 200 3189 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:47:11 -0500] "GET /dbWIP/insertPersonData3.php HTTP/1.1" 200 971 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tperson HTTP/1.1" 200 19453
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:20:47:17 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:47:17 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:47:17 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:47:17 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006437494282098&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:47:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/visibility-hidden.svg HTTP/1.1" 200 458
+::1 - - [17/Jan/2023:20:47:17 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:47:21 -0500] "GET /dbWIP/insertPersonData2.php HTTP/1.1" 200 454 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/index.php?route=/sql&pos=0&db=alphacrm&table=tperson HTTP/1.1" 200 19669
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/favicon.ico HTTP/1.1" 200 22486
+::1 - - [17/Jan/2023:20:47:25 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 3402
+::1 - - [17/Jan/2023:20:47:25 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:20:47:25 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674006445553335750&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:20:47:25 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:20:47:26 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:20:53:50 -0500] "GET /test.php HTTP/1.1" 200 209 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:54:23 -0500] "GET /test.php HTTP/1.1" 200 7 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:55:28 -0500] "GET /DEMO/ HTTP/1.1" 200 1202 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:55:30 -0500] "GET /DEMO/testecho.html HTTP/1.1" 200 608 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:57:19 -0500] "GET /DEMO/ HTTP/1.1" 200 1415 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:57:20 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 608 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:59:21 -0500] "GET /DEMO/ HTTP/1.1" 200 1415 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:59:23 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 101 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:59:25 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 101 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:59:27 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 235 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:59:53 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 197 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:20:59:55 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 197 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:00:14 -0500] "GET /phpmyadmin/themes/bootstrap/img/visibility-hidden.svg HTTP/1.1" 200 458
+::1 - - [17/Jan/2023:21:01:15 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 191 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:01:53 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 379 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:02:37 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 408 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:03:56 -0500] "GET /DEMO/testecho.php HTTP/1.1" 200 411 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:05:24 -0500] "GET /DEMO/ HTTP/1.1" 200 1629 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:05:25 -0500] "GET /DEMO/tabletest.php HTTP/1.1" 200 158 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:06:06 -0500] "GET /DEMO/tabletest.php HTTP/1.1" 200 386 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:06:31 -0500] "GET /DEMO/tabletest.php HTTP/1.1" 200 614 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:07:02 -0500] "GET /DEMO/tabletest.php HTTP/1.1" 200 649 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:11:28 -0500] "GET /DEMO/ HTTP/1.1" 200 1843 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:11:30 -0500] "GET /DEMO/datesTest.php HTTP/1.1" 200 825 "http://localhost/DEMO/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:16:56 -0500] "GET /dbWIP/ HTTP/1.1" 200 3405 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:16:58 -0500] "GET /dbWIP/ HTTP/1.1" 200 3405 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:17:01 -0500] "GET /dbWIP/ HTTP/1.1" 200 3405 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:17:03 -0500] "GET /dbWIP/select_Demo.php HTTP/1.1" 200 235 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:18:23 -0500] "GET /dbWIP/insertPersonData2.php HTTP/1.1" 200 454 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:22:44 -0500] "GET /dbWIP/ HTTP/1.1" 200 3626 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:22:46 -0500] "GET /dbWIP/selectTable_Demo.php HTTP/1.1" 200 245 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:27:32 -0500] "GET /initialise.php HTTP/1.1" 404 296 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:27:40 -0500] "GET /initialise/ HTTP/1.1" 200 1650 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:27:42 -0500] "GET /initialise/tPersonInitialise.php HTTP/1.1" 200 257 "http://localhost/initialise/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:27:43 -0500] "GET /initialise/tCompanyInitialise.php HTTP/1.1" 200 259 "http://localhost/initialise/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:29:00 -0500] "GET /initialise/tCompanyInitialise.php HTTP/1.1" 200 1051 "http://localhost/initialise/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:29:03 -0500] "GET /initialise/tPersonInitialise.php HTTP/1.1" 200 821 "http://localhost/initialise/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/index.php?route=/server/databases HTTP/1.1" 200 17447
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.min.js?v=5.2.0 HTTP/1.1" 200 89501
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.validate.js?v=5.2.0 HTTP/1.1" 200 50963
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/functions.js?v=5.2.0 HTTP/1.1" 200 145101
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js?v=5.2.0 HTTP/1.1" 200 9604
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-migrate.js?v=5.2.0 HTTP/1.1" 200 30789
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/sprintf.js?v=5.2.0 HTTP/1.1" 200 7409
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/ajax.js?v=5.2.0 HTTP/1.1" 200 29575
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/keyhandler.js?v=5.2.0 HTTP/1.1" 200 2988
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui.min.js?v=5.2.0 HTTP/1.1" 200 255082
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/name-conflict-fixes.js?v=5.2.0 HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/js.cookie.js?v=5.2.0 HTTP/1.1" 200 3883
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js?v=5.2.0 HTTP/1.1" 200 78129
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js?v=5.2.0 HTTP/1.1" 200 78475
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js?v=5.2.0 HTTP/1.1" 200 1608
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/menu_resizer.js?v=5.2.0 HTTP/1.1" 200 5721
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/cross_framing_protection.js?v=5.2.0 HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/config.js?v=5.2.0 HTTP/1.1" 200 24062
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/doclinks.js?v=5.2.0 HTTP/1.1" 200 18277
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/common.js?v=5.2.0 HTTP/1.1" 200 4548
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/navigation.js?v=5.2.0 HTTP/1.1" 200 52604
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/indexes.js?v=5.2.0 HTTP/1.1" 200 26428
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/page_settings.js?v=5.2.0 HTTP/1.1" 200 1544
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/server/databases.js?v=5.2.0 HTTP/1.1" 200 4647
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js?v=5.2.0 HTTP/1.1" 200 2773
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/mode/sql/sql.js?v=5.2.0 HTTP/1.1" 200 51017
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js?v=5.2.0 HTTP/1.1" 200 19979
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.js?v=5.2.0 HTTP/1.1" 200 9985
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js?v=5.2.0 HTTP/1.1" 200 944
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.js?v=5.2.0 HTTP/1.1" 200 400215
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/vendor/tracekit.js?v=5.2.0 HTTP/1.1" 200 47128
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/error_report.js?v=5.2.0 HTTP/1.1" 200 9290
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/drag_drop_import.js?v=5.2.0 HTTP/1.1" 200 12346
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/shortcuts_handler.js?v=5.2.0 HTTP/1.1" 200 3311
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/dist/console.js?v=5.2.0 HTTP/1.1" 200 49251
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/logo_left.png HTTP/1.1" 200 2713
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7862
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/sign-out.svg HTTP/1.1" 200 136
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/home.svg HTTP/1.1" 200 148
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/manual.svg HTTP/1.1" 200 185
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/help.svg HTTP/1.1" 200 341
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/gear.svg HTTP/1.1" 200 448
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/reload.svg HTTP/1.1" 200 194
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/link.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-plus.svg HTTP/1.1" 200 523
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-expand.svg HTTP/1.1" 200 127
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/database.svg HTTP/1.1" 200 352
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/host.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/caret-up-stop.svg HTTP/1.1" 200 122
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/console.svg HTTP/1.1" 200 147
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/help-alt.svg HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-minus.svg HTTP/1.1" 200 504
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/search.svg HTTP/1.1" 200 237
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/sort-asc.svg HTTP/1.1" 200 121
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/user-props.svg HTTP/1.1" 200 240
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/notice.svg HTTP/1.1" 200 130
+::1 - - [17/Jan/2023:21:29:18 -0500] "GET /phpmyadmin/themes/bootstrap/img/windows.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:21:29:18 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:21:29:18 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:21:29:18 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2393
+::1 - - [17/Jan/2023:21:29:19 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/sql.svg HTTP/1.1" 200 339
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/server.svg HTTP/1.1" 200 409
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/export.svg HTTP/1.1" 200 179
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/replication.svg HTTP/1.1" 200 349
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/import.svg HTTP/1.1" 200 178
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/preferences.svg HTTP/1.1" 200 219
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/charset.svg HTTP/1.1" 200 290
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-vars.svg HTTP/1.1" 200 405
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-engine.svg HTTP/1.1" 200 742
+::1 - - [17/Jan/2023:21:29:20 -0500] "GET /phpmyadmin/themes/bootstrap/img/plugin.svg HTTP/1.1" 200 313
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/index.php?route=/database/structure&db=alphacrm&ajax_request=true&ajax_page_request=true&_nocache=1674008965138863713&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5885
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-engine.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/routine.svg HTTP/1.1" 200 612
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/event.svg HTTP/1.1" 200 247
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/glasses.svg HTTP/1.1" 200 513
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/flag.svg HTTP/1.1" 200 112
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/designer.svg HTTP/1.1" 200 235
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/col.svg HTTP/1.1" 200 205
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/js/dist/database/structure.js?v=5.2.0 HTTP/1.1" 200 14663
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/favorite-alt.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-browse.svg HTTP/1.1" 200 261
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/row-plus.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/minus.svg HTTP/1.1" 200 174
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/print.svg HTTP/1.1" 200 283
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/search-across.svg HTTP/1.1" 200 286
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-analyse.svg HTTP/1.1" 200 184
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-plus.svg HTTP/1.1" 200 413
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/shredder.svg HTTP/1.1" 200 261
+::1 - - [17/Jan/2023:21:29:25 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2393
+::1 - - [17/Jan/2023:21:29:25 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1979
+::1 - - [17/Jan/2023:21:29:25 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1979
+::1 - - [17/Jan/2023:21:29:25 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-collapse.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:21:29:26 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tperson&pos=0&ajax_request=true&ajax_page_request=true&_nocache=1674008966955799557&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 10237
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/table.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/success.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/edit.svg HTTP/1.1" 200 196
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/chart.svg HTTP/1.1" 200 182
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-view-plus.svg HTTP/1.1" 200 837
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/bookmark-plus.svg HTTP/1.1" 200 222
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/js/dist/multi_column_sort.js?v=5.2.0 HTTP/1.1" 200 1281
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/js/dist/gis_data_editor.js?v=5.2.0 HTTP/1.1" 200 13554
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/js/dist/sql.js?v=5.2.0 HTTP/1.1" 200 35111
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/js/dist/makegrid.js?v=5.2.0 HTTP/1.1" 200 79631
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/s_fulltext.png HTTP/1.1" 200 176
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_drop.png HTTP/1.1" 200 111
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_pointer.png HTTP/1.1" 200 102
+::1 - - [17/Jan/2023:21:29:27 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=167400896724772201&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:21:29:29 -0500] "GET /phpmyadmin/index.php?route=%2Fdatabase%2Fstructure&db=alphacrm&server=1&ajax_request=true&ajax_page_request=true&_nocache=1674008969616349291&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5885
+::1 - - [17/Jan/2023:21:29:29 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2741
+::1 - - [17/Jan/2023:21:29:30 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tcompany&pos=0&ajax_request=true&ajax_page_request=true&_nocache=1674008970744595237&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 10456
+::1 - - [17/Jan/2023:21:29:30 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674008970997875199&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:21:29:34 -0500] "GET /phpmyadmin/index.php?route=%2Fdatabase%2Fstructure&db=alphacrm&server=1&ajax_request=true&ajax_page_request=true&_nocache=1674008974237179784&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 5885
+::1 - - [17/Jan/2023:21:29:34 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2741
+::1 - - [17/Jan/2023:21:30:47 -0500] "GET / HTTP/1.1" 200 230 "http://localhost/initialise/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:31:45 -0500] "GET /dbWIP/ HTTP/1.1" 200 3846 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:31:47 -0500] "GET /dbWIP/selectJoin_Demo.php HTTP/1.1" 200 249 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:33:02 -0500] "GET /dbWIP/ HTTP/1.1" 200 3846 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:33:09 -0500] "GET /DEMO/ HTTP/1.1" 200 1843 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:33:19 -0500] "GET /initialise/ HTTP/1.1" 200 1650 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:33:24 -0500] "GET /phpmyadmin/themes/bootstrap/img/visibility-hidden.svg HTTP/1.1" 200 458
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tcompany&pos=0 HTTP/1.1" 200 19896
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.min.js?v=5.2.0 HTTP/1.1" 200 89501
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-migrate.js?v=5.2.0 HTTP/1.1" 200 30789
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/sprintf.js?v=5.2.0 HTTP/1.1" 200 7409
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/ajax.js?v=5.2.0 HTTP/1.1" 200 29575
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/keyhandler.js?v=5.2.0 HTTP/1.1" 200 2988
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui.min.js?v=5.2.0 HTTP/1.1" 200 255082
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/name-conflict-fixes.js?v=5.2.0 HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js?v=5.2.0 HTTP/1.1" 200 78129
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/js.cookie.js?v=5.2.0 HTTP/1.1" 200 3883
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.validate.js?v=5.2.0 HTTP/1.1" 200 50963
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js?v=5.2.0 HTTP/1.1" 200 78475
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js?v=5.2.0 HTTP/1.1" 200 1608
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/menu_resizer.js?v=5.2.0 HTTP/1.1" 200 5721
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/cross_framing_protection.js?v=5.2.0 HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/config.js?v=5.2.0 HTTP/1.1" 200 24062
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/doclinks.js?v=5.2.0 HTTP/1.1" 200 18277
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/functions.js?v=5.2.0 HTTP/1.1" 200 145101
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/navigation.js?v=5.2.0 HTTP/1.1" 200 52604
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/indexes.js?v=5.2.0 HTTP/1.1" 200 26428
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/common.js?v=5.2.0 HTTP/1.1" 200 4548
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/page_settings.js?v=5.2.0 HTTP/1.1" 200 1544
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/gis_data_editor.js?v=5.2.0 HTTP/1.1" 200 13554
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/multi_column_sort.js?v=5.2.0 HTTP/1.1" 200 1281
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/makegrid.js?v=5.2.0 HTTP/1.1" 200 79631
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/sql.js?v=5.2.0 HTTP/1.1" 200 35111
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.js?v=5.2.0 HTTP/1.1" 200 400215
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/mode/sql/sql.js?v=5.2.0 HTTP/1.1" 200 51017
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js?v=5.2.0 HTTP/1.1" 200 2773
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js?v=5.2.0 HTTP/1.1" 200 19979
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js?v=5.2.0 HTTP/1.1" 200 9604
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.js?v=5.2.0 HTTP/1.1" 200 9985
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js?v=5.2.0 HTTP/1.1" 200 944
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/vendor/tracekit.js?v=5.2.0 HTTP/1.1" 200 47128
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/error_report.js?v=5.2.0 HTTP/1.1" 200 9290
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/drag_drop_import.js?v=5.2.0 HTTP/1.1" 200 12346
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/shortcuts_handler.js?v=5.2.0 HTTP/1.1" 200 3311
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/dist/console.js?v=5.2.0 HTTP/1.1" 200 49251
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/img/logo_left.png HTTP/1.1" 200 2713
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/img/s_fulltext.png HTTP/1.1" 200 176
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7862
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/img/home.svg HTTP/1.1" 200 148
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/img/sign-out.svg HTTP/1.1" 200 136
+::1 - - [17/Jan/2023:21:33:44 -0500] "GET /phpmyadmin/themes/bootstrap/img/help.svg HTTP/1.1" 200 341
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/row-plus.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/edit.svg HTTP/1.1" 200 196
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/minus.svg HTTP/1.1" 200 174
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/database.svg HTTP/1.1" 200 352
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-expand.svg HTTP/1.1" 200 127
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/export.svg HTTP/1.1" 200 179
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/manual.svg HTTP/1.1" 200 185
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/gear.svg HTTP/1.1" 200 448
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/reload.svg HTTP/1.1" 200 194
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/link.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-plus.svg HTTP/1.1" 200 523
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/host.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/table.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-browse.svg HTTP/1.1" 200 261
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-engine.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/sql.svg HTTP/1.1" 200 339
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/search.svg HTTP/1.1" 200 237
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/import.svg HTTP/1.1" 200 178
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/user-props.svg HTTP/1.1" 200 240
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/preferences.svg HTTP/1.1" 200 219
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/glasses.svg HTTP/1.1" 200 513
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/flag.svg HTTP/1.1" 200 112
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/caret-up-stop.svg HTTP/1.1" 200 122
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/success.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/print.svg HTTP/1.1" 200 283
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/chart.svg HTTP/1.1" 200 182
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-view-plus.svg HTTP/1.1" 200 837
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/bookmark-plus.svg HTTP/1.1" 200 222
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/windows.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_drop.png HTTP/1.1" 200 111
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_pointer.png HTTP/1.1" 200 102
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/console.svg HTTP/1.1" 200 147
+::1 - - [17/Jan/2023:21:33:45 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2393
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:21:33:45 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:21:33:45 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674009225039920208&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:21:33:45 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1979
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-plus.svg HTTP/1.1" 200 413
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-collapse.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:21:33:45 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/index.php?route=/sql&db=alphacrm&table=tperson&pos=0 HTTP/1.1" 200 19536
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/jquery/jquery-ui.css HTTP/1.1" 200 36566
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.css?v=5.2.0 HTTP/1.1" 200 8720
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css?v=5.2.0 HTTP/1.1" 200 623
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.css?v=5.2.0 HTTP/1.1" 200 3035
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-migrate.js?v=5.2.0 HTTP/1.1" 200 30789
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.min.js?v=5.2.0 HTTP/1.1" 200 89501
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/css/theme.css?v=5.2.0 HTTP/1.1" 200 332286
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/sprintf.js?v=5.2.0 HTTP/1.1" 200 7409
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/keyhandler.js?v=5.2.0 HTTP/1.1" 200 2988
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/ajax.js?v=5.2.0 HTTP/1.1" 200 29575
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui.min.js?v=5.2.0 HTTP/1.1" 200 255082
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/name-conflict-fixes.js?v=5.2.0 HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/js.cookie.js?v=5.2.0 HTTP/1.1" 200 3883
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js?v=5.2.0 HTTP/1.1" 200 78129
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.validate.js?v=5.2.0 HTTP/1.1" 200 50963
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js?v=5.2.0 HTTP/1.1" 200 78475
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js?v=5.2.0 HTTP/1.1" 200 1608
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/menu_resizer.js?v=5.2.0 HTTP/1.1" 200 5721
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/cross_framing_protection.js?v=5.2.0 HTTP/1.1" 200 404
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/config.js?v=5.2.0 HTTP/1.1" 200 24062
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/doclinks.js?v=5.2.0 HTTP/1.1" 200 18277
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/functions.js?v=5.2.0 HTTP/1.1" 200 145101
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/navigation.js?v=5.2.0 HTTP/1.1" 200 52604
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/common.js?v=5.2.0 HTTP/1.1" 200 4548
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/indexes.js?v=5.2.0 HTTP/1.1" 200 26428
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/page_settings.js?v=5.2.0 HTTP/1.1" 200 1544
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js?v=5.2.0 HTTP/1.1" 200 3139
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/gis_data_editor.js?v=5.2.0 HTTP/1.1" 200 13554
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/table/change.js?v=5.2.0 HTTP/1.1" 200 29011
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/multi_column_sort.js?v=5.2.0 HTTP/1.1" 200 1281
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/makegrid.js?v=5.2.0 HTTP/1.1" 200 79631
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/sql.js?v=5.2.0 HTTP/1.1" 200 35111
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/lib/codemirror.js?v=5.2.0 HTTP/1.1" 200 400215
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/mode/sql/sql.js?v=5.2.0 HTTP/1.1" 200 51017
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js?v=5.2.0 HTTP/1.1" 200 2773
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js?v=5.2.0 HTTP/1.1" 200 19979
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js?v=5.2.0 HTTP/1.1" 200 9604
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/codemirror/addon/lint/lint.js?v=5.2.0 HTTP/1.1" 200 9985
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js?v=5.2.0 HTTP/1.1" 200 944
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/vendor/tracekit.js?v=5.2.0 HTTP/1.1" 200 47128
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/error_report.js?v=5.2.0 HTTP/1.1" 200 9290
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/drag_drop_import.js?v=5.2.0 HTTP/1.1" 200 12346
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/shortcuts_handler.js?v=5.2.0 HTTP/1.1" 200 3311
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/dist/console.js?v=5.2.0 HTTP/1.1" 200 49251
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/logo_left.png HTTP/1.1" 200 2713
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/dot.gif HTTP/1.1" 200 43
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/s_fulltext.png HTTP/1.1" 200 176
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/arrow_ltr.png HTTP/1.1" 200 101
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/js/messages.php?l=en&v=5.2.0 HTTP/1.1" 200 7862
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/home.svg HTTP/1.1" 200 148
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/sign-out.svg HTTP/1.1" 200 136
+::1 - - [17/Jan/2023:21:33:45 -0500] "GET /phpmyadmin/themes/bootstrap/img/help.svg HTTP/1.1" 200 341
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/row-plus.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/edit.svg HTTP/1.1" 200 196
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/minus.svg HTTP/1.1" 200 174
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/database.svg HTTP/1.1" 200 352
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-expand.svg HTTP/1.1" 200 127
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/export.svg HTTP/1.1" 200 179
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/manual.svg HTTP/1.1" 200 185
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/gear.svg HTTP/1.1" 200 448
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/reload.svg HTTP/1.1" 200 194
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/link.svg HTTP/1.1" 200 354
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/database-plus.svg HTTP/1.1" 200 523
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/host.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/table.svg HTTP/1.1" 200 220
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-browse.svg HTTP/1.1" 200 261
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-engine.svg HTTP/1.1" 200 561
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/sql.svg HTTP/1.1" 200 339
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/search.svg HTTP/1.1" 200 237
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/import.svg HTTP/1.1" 200 178
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/user-props.svg HTTP/1.1" 200 240
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/preferences.svg HTTP/1.1" 200 219
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/glasses.svg HTTP/1.1" 200 513
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/flag.svg HTTP/1.1" 200 112
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/caret-up-stop.svg HTTP/1.1" 200 122
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/success.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/print.svg HTTP/1.1" 200 283
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/chart.svg HTTP/1.1" 200 182
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-view-plus.svg HTTP/1.1" 200 837
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_drop.png HTTP/1.1" 200 111
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/col_pointer.png HTTP/1.1" 200 102
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/bookmark-plus.svg HTTP/1.1" 200 222
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/console.svg HTTP/1.1" 200 147
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/windows.svg HTTP/1.1" 200 193
+::1 - - [17/Jan/2023:21:33:46 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1568
+::1 - - [17/Jan/2023:21:33:46 -0500] "POST /phpmyadmin/index.php?route=/config/get HTTP/1.1" 200 1476
+::1 - - [17/Jan/2023:21:33:46 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 2393
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1674009226072867543&token=7c6f4a50602a4a3b775c526a28487d6a HTTP/1.1" 200 1594
+::1 - - [17/Jan/2023:21:33:46 -0500] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1467
+::1 - - [17/Jan/2023:21:33:46 -0500] "POST /phpmyadmin/index.php?route=/navigation&ajax_request=1 HTTP/1.1" 200 1979
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/table-plus.svg HTTP/1.1" 200 413
+::1 - - [17/Jan/2023:21:33:46 -0500] "GET /phpmyadmin/themes/bootstrap/img/tree-collapse.svg HTTP/1.1" 200 108
+::1 - - [17/Jan/2023:21:34:29 -0500] "GET /dbWIP/select_Demo.php HTTP/1.1" 200 235 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [17/Jan/2023:21:34:58 -0500] "GET /dbWIP/updatecompanies01.php HTTP/1.1" 200 49 "http://localhost/dbWIP/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"

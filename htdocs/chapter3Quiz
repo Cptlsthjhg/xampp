@@ -1,0 +1,12 @@
+1. What is the php function to select database "betaCMS" from connection ID "$thisConnection"?
+
+2. What is the SQL command to erase the database "betaCMS"?
+
+3. What is the php code to concatenate $dataline with "end"?
+
+
+4. Which of the following can follow the $ in a string variable name?
+g, $, _, H, =, @,
+
+5. using $arrayVar = array($'firstname'=> 'joe', 'lastname' =>'jones'_)
+how would you reference the value 'jones' using this array variable?
